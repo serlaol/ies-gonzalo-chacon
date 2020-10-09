@@ -3,3 +3,7 @@ Este temario y ejercicios realizados corresponden al IES Gonzalo Chacón en el c
 
 Primer Curso (DAM1)
 Entornos de Desarrollo
+
+Sergio Laguna Olmo
+
+sergio.lagunaolmo@educa.madrid.org

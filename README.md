@@ -1,6 +1,6 @@
-Temario y ejercicios Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma (DAM)
+<h1>Temario y ejercicios Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma (DAM)</h1>
 
-Este temario y ejercicios realizados corresponden al IES Gonzalo Chacón en el curso 2020/21
+<h2>Este temario y ejercicios realizados corresponden al IES Gonzalo Chacón en el curso 2020/21</h2>
 
 - Primer Curso (DAM1)
 
